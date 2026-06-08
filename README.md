@@ -1,4 +1,4 @@
-# Olalekan Olamide — Platform & DevSecOps Engineer
+# Olamide Olalekan — Platform & DevSecOps Engineer
 
 Platform engineer focused on Kubernetes, observability, 
 infrastructure automation, and failure-aware cloud systems.
