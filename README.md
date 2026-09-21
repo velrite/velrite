@@ -29,7 +29,7 @@ automated rollback behavior, and runtime recovery testing.
 ## Core Stack
 
 **Cloud & Infrastructure**
-AWS · Azure · Kubernetes · Docker · Terraform
+AWS · GCP · Kubernetes · Docker · Terraform
 
 **CI/CD & Automation**
 GitLab CI · Ansible · Puppet · GitHub Actions
