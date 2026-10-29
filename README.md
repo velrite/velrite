@@ -42,6 +42,3 @@ Every repo has a "limitations" section. I'd rather you read it from me than find
 
 ---
 
-## Contact
-
-velrite.tech@gmail.com · [LinkedIn](https://www.linkedin.com/in/olamide-olalekan-12138a265)
