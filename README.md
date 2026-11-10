@@ -24,7 +24,7 @@ Mechatronics engineer (FUOYE, 2025) turned platform engineer. Embedded systems t
 
 **[Production Platform on Kubernetes](https://github.com/velrite/Production-Platform-on-Kubernetes)** — Multi-environment EKS with Karpenter, GitOps, private-CA TLS and ExternalDNS. I terminated a node on purpose and timed the recovery.
 
-Also: [Forge](https://github.com/velrite/forge) (internal developer platform on GKE) · [LLM inference on GKE](ADD-LINK) (signed-image admission, vLLM)
+Also: [Forge](https://github.com/velrite/forge) (internal developer platform on GKE) · [LLM inference on GKE](https://github.com/velrite/project7-ai-inference-platform) (signed-image admission, vLLM)
 
 Every repo has a "limitations" section. I'd rather you read it from me than find it yourself.
 
